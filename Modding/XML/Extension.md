@@ -20,12 +20,12 @@
 
 ### Libraries
 For information about the library itself, see [TranscendenceLibrary](Extension.md#transcendencelibrary)
-- <Library>
+- `<Library>`
   - unid: UNID of <TranscendenceLibrary> to reference
 ### Modules
 For information about the module itself, see [TranscendenceModule](Extension.md#transcendencemodule)
-- <Modules>
-  - <Module>
+- `<Modules>`
+  - `<Module>`
     - filename: Relative path to <TranscendenceModule> file
 
 ### Globals
