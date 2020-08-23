@@ -9,3 +9,8 @@ For events defined by all DesignTypes, see [Type](Type.md#events)
 This event runs after [OnGlobalTypesInit](Type.md#onglobaltypesinit) on game creation, before inheritance/overriding/binding happen. This means TemplateTypes generate after `OnGlobalTypesInit` dynamic types are added
 
 - Return: String containing an XML source. The game will create a dynamic type with the UNID of enclosing TemplateType.
+
+## References
+
+[Original wiki page](http://wiki.kronosaur.com/doku.php/modding/xml/templatetype)
+[Original forum post](https://forums.kronosaur.com/viewtopic.php?p=44626#p44626)
